@@ -20,6 +20,7 @@ namespace mazda.ecitizen.api
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                .UseUrls("http://*:8900")
                 .Build();
     }
 }

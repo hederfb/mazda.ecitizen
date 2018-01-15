@@ -1,0 +1,10 @@
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Release/netcoreapp2.0/mazda.ecitizen.api.deps.json
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Release/netcoreapp2.0/mazda.ecitizen.api.runtimeconfig.json
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Release/netcoreapp2.0/mazda.ecitizen.api.runtimeconfig.dev.json
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Release/netcoreapp2.0/mazda.ecitizen.api.dll
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Release/netcoreapp2.0/mazda.ecitizen.api.pdb
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Release/netcoreapp2.0/mazda.ecitizen.api.csproj.CoreCompileInputs.cache
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Release/netcoreapp2.0/mazda.ecitizen.api.AssemblyInfoInputs.cache
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Release/netcoreapp2.0/mazda.ecitizen.api.AssemblyInfo.cs
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Release/netcoreapp2.0/mazda.ecitizen.api.dll
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Release/netcoreapp2.0/mazda.ecitizen.api.pdb

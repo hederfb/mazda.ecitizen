@@ -1,0 +1,5 @@
+/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=mazda.ecitizen.api
+--content-root=/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api
+--file=

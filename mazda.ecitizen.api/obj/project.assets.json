@@ -12903,23 +12903,23 @@
     ]
   },
   "packageFolders": {
-    "/home/hederfb/.nuget/packages/": {},
+    "/home/ubuntu/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hederfb/Projects/mazda.ecitizen/mazda.ecitizen.api/mazda.ecitizen.api.csproj",
+      "projectUniqueName": "/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/mazda.ecitizen.api.csproj",
       "projectName": "mazda.ecitizen.api",
-      "projectPath": "/home/hederfb/Projects/mazda.ecitizen/mazda.ecitizen.api/mazda.ecitizen.api.csproj",
-      "packagesPath": "/home/hederfb/.nuget/packages/",
-      "outputPath": "/home/hederfb/Projects/mazda.ecitizen/mazda.ecitizen.api/obj/",
+      "projectPath": "/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/mazda.ecitizen.api.csproj",
+      "packagesPath": "/home/ubuntu/.nuget/packages/",
+      "outputPath": "/home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/hederfb/.nuget/NuGet/NuGet.Config"
+        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12943,7 +12943,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
