@@ -18,3 +18,13 @@
 /home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.AssemblyInfo.cs
 /home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.dll
 /home/ubuntu/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.pdb
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Debug/netcoreapp2.0/mazda.ecitizen.api.deps.json
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Debug/netcoreapp2.0/mazda.ecitizen.api.runtimeconfig.json
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Debug/netcoreapp2.0/mazda.ecitizen.api.runtimeconfig.dev.json
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Debug/netcoreapp2.0/mazda.ecitizen.api.dll
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/bin/Debug/netcoreapp2.0/mazda.ecitizen.api.pdb
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.csproj.CoreCompileInputs.cache
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.AssemblyInfoInputs.cache
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.AssemblyInfo.cs
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.dll
+/home/hederfb/projetos/mazda.ecitizen/mazda.ecitizen.api/obj/Debug/netcoreapp2.0/mazda.ecitizen.api.pdb
